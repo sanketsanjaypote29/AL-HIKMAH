@@ -136,7 +136,29 @@ Daftar Isi Kitab Kuning dan Terjemahan
 
 ===
 
-  
+  https://wahyu9kdl.github.io/AL-HIKMAH/
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/ALFIYYAH
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/AUDIT/Halaman.csv
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/AUDIT/Log.txt
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/AUDIT/Log_alhikmah.csv
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/ISLAM/ALHIKMAH.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/ISLAM/AlFatihah.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/ISLAM/HOME.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/ISLAM/RSS.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/ISLAM/adzan.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/ISLAM/index.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/TEMPLATES/LANDING.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/TEMPLATES/Particle.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/TEMPLATES/Reques.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/dsq.html
+https://wahyu9kdl.github.io/AL-HIKMAH/DATABASE/index.html
+https://wahyu9kdl.github.io/AL-HIKMAH/SITEMAP/News.html
+https://wahyu9kdl.github.io/AL-HIKMAH/SITEMAP/sitemap.html
+https://wahyu9kdl.github.io/AL-HIKMAH/SITEMAP/sitemap1.html
+https://wahyu9kdl.github.io/AL-HIKMAH/SITEMAP/sitemap2.html
+https://wahyu9kdl.github.io/AL-HIKMAH/SITEMAP/sitemap3.html
+
+
 
 ===
 
